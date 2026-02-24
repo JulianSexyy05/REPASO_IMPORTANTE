@@ -1,0 +1,12 @@
+Logica_Negocio\Llanta.class
+Logica_Negocio\Motor.class
+Logica_Negocio\Pasajero.class
+Logica_Negocio\VIP.class
+Helpers\IHelperImpresion.class
+Logica_Negocio\Ala.class
+Logica_Negocio\Comun.class
+Logica_Negocio\Fuselaje.class
+Logica_Cliente\Main.class
+Logica_Negocio\Vuelo.class
+Logica_Negocio\Avion.class
+Helpers\HelperImpresion.class
